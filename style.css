@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#signup{
+    border: 1px solid rgb(255, 71, 26);
+    padding: 12px;
+    background: rgb(255, 71, 26);
+    color: white;
+    border-radius: 8px;
+}
+
+h1{
+    color: rgb(255, 71, 26);
+    letter-spacing: 10px;
+}
+
+h2{
+    color: rgb(107, 109, 255);
+    letter-spacing: 10px;
+}
+
+p{
+    font-size: 22px;
+    line-height: 2rem;
+}
+
+#btn{
+    border: 1px solid rgb(98, 98, 249);
+    padding: 12 30px;
+    margin-top: 20px;
+    background: rgb(98, 98, 249);
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
